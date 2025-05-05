@@ -4,7 +4,7 @@ I'm a Data Engineer, GIS & ML / AI expert with with more than 15 years of experi
 
 My focus are software solutions which support the UN Sustainability goals 🌍
 
-I'm member of the (allwerker eG)[https://www.allwerker.com/] - a cooperative creating and exploring the digital future.
+I'm member of the [allwerker eG](https://www.allwerker.com/) - a cooperative creating and exploring the digital future.
 
 
 ## 🌱 Recent Projects
