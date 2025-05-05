@@ -20,12 +20,12 @@ Technologies: Python, (Geo)Pandas, GIS, ML algorithms and optimization (Scikit L
 - Implemented a solution to identifying optimal areas for local energy communities in Spain and Germany. Based on my analysis the [Adeje Verde project](https://adejeverde.com/emma-2) in Tenerife chose the music school as the central building for solar panels providing renewable energy to the neighbourhood.
 - Initiated and implemented an open source solution for the [most complete map of charging stations in europe](https://medium.com/comsystoreply/the-most-complete-map-of-charging-stations-1ebbf91e4ef3) . Github repo: https://github.com/comsysto/eCharm
 
-### 📊 Data Engineering: Processing Millions of Daily Sensor Measurements
+### ☁️ Data Engineering: Processing Millions of Daily Sensor Measurements
 Technologies: AWS, Apache Spark, Java, Spring, GIS
 
 Description: Implemented scalable big data jobs and infrastructure on AWS for processing millions of time-critical sensor data from vehicles worldwide. Addressed challenges like skewed geodata distribution. Led a team of up to 10 developers.
 
-### 🗺️ AI Engineering: Implementation of AI applications in the backend
+### 🤖 AI Engineering: Implementation of AI applications in the backend
 Technologies: Python, Django, LLM+RAG, AI Agents, GCP, Azure, AWS, Docker, Terraform
 
 Description: Developed various AI applications with Python / Django, including REST APIs. Applications include LLM+RAG solutions as well as AI agents. Designed software architecture and cloud infrastructure, and automated infrastructure using Terraform.
