@@ -1,6 +1,6 @@
 # Lars Haferkamp - Freelancer
 
-I'm a German software developer with over 15 years of experience, specializing in:
+I'm a german software developer with over 15 years of experience, specializing in:
 
 - 🛠️ Software and Data Engineering
 - 🌍 GIS & Geospatial Data
@@ -23,10 +23,10 @@ Technologies: AWS, Apache Spark, Java, Spring, GIS
 
 Description: Implemented scalable big data jobs and infrastructure on AWS for processing millions of time-critical sensor data from vehicles worldwide. Addressed challenges like skewed geodata distribution. Led a team of up to 10 developers.
 
-## 🗺️ Software Engineering: Backends for AI applications with Python / Django
+### 🗺️ AI Engineering: Implementation of AI applications in the backend
 Technologies: Python, Django, GCP, Azure, AWS, Docker, Terraform
 
-Description: Developed various Python backends for AI applications with Django, including REST APIs. Applications include LLM+RAG solutions as well as AI agents. Designed software architecture and cloud infrastructure, and automated infrastructure using Terraform.
+Description: Developed various AI applications with Python / Django, including REST APIs. Applications include LLM+RAG solutions as well as AI agents. Designed software architecture and cloud infrastructure, and automated infrastructure using Terraform.
 <!--
 **zzikkzzakk/zzikkzzakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
