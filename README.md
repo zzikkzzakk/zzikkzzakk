@@ -1,10 +1,20 @@
 ## Lars Haferkamp - Freelancer
 
-I'm a Data Engineer, GIS & ML / AI expert with with more than 15 years of experience and focus on software solutions which support the UN Sustainability goals 🌍
-My recent projects include solutions for the Renewable Energy and E-Mobility sector. 
+I'm a Data Engineer, GIS & ML / AI expert with with more than 15 years of experience.
+
+My focus are software solutions which support the UN Sustainability goals 🌍
+
+Like Renewable Energy and E-Mobility sector. 
 
 I'm member of the allwerker eG - a cooperative creating and exploring the digital future.
 
+
+Renewable Energy Sector: Geospatial analysis and Machine Learning
+Python / Pandas
+GIS
+Scikit Learn
+AWS
+Finding optimal locations for new charging stations via Machine learning models based on geospatial and socio-economic features. Identification of optimal areas for local energy communities in Spain and Germany.
 
 
 <!--
