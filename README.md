@@ -31,10 +31,10 @@ Description: Developed various AI applications with Python / Django, including R
 ### 🎧 [Worldmusic.fm](https://www.worldmusic.fm/)
 Technologies: Python, Django, Postgres/PostGIS, Javascript, React, ThreeJS
 
-Description: I'm the sole creator of Worldmusic.fm your next generation music player:
+Description: I'm the sole creator of Worldmusic.fm, your next generation music player:
 - Discover native music from even the smallest countries.
 - Turn it into a local radio while driving and listen to musicians nearby.
-Needs an Apple Music subscription
+- Needs an Apple Music subscription
 
 <!--
 **zzikkzzakk/zzikkzzakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
