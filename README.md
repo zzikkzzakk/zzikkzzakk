@@ -1,4 +1,4 @@
-# Lars H. - Freelancer
+# Lars - Freelancer
 
 I'm a german software developer with over 15 years of experience, specializing in:
 
