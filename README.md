@@ -30,10 +30,10 @@ Technologies: Python, Django, LLM+RAG, AI Agents, GCP, Azure, AWS, Docker, Terra
 
 Description: Developed various AI applications with Python / Django, including REST APIs. Applications include LLM+RAG solutions as well as AI agents. Designed software architecture and cloud infrastructure, and automated infrastructure using Terraform.
 
-### 🎧 [Worldmusic.fm](https://www.worldmusic.fm/)
+### 🎧 Worldmusic.fm
 Technologies: Python, Django, Postgres/PostGIS, Javascript, React, ThreeJS
 
-Description: I'm the sole creator of Worldmusic.fm, your next generation music player:
+Description: I'm the sole creator of [Worldmusic.fm](https://www.worldmusic.fm/), your next generation music player:
 - Discover native music from even the smallest countries.
 - Turn it into a local radio while driving and listen to musicians nearby.
 - Needs an Apple Music subscription
