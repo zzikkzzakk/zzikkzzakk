@@ -1,4 +1,4 @@
-# ⋆｡°✩☾★彡☆彡★☽✩°｡⋆ Lars ·:*¨༺ ༻¨*:·ﾟ✧ Freelancer ⋆｡°✩☾★彡☆彡★☽✩°｡⋆
+# Lars ·:*¨༺ ༻¨*:·ﾟ✧ Freelancer ⋆｡°✩☾★彡☆彡★☽✩°｡⋆
 
 I'm a german software developer with over 15 years of experience, specializing in:
 
