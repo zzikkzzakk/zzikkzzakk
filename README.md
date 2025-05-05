@@ -14,7 +14,7 @@ I'm a german software developer with over 15 years of experience, specializing i
 
 ## Recent Projects
 ### 🔋 Renewable Energy Sector: Geospatial Analysis and Machine Learning
-Technologies: Python, Pandas, GIS, Scikit Learn, AWS
+Technologies: Python, (Geo)Pandas, GIS, ML algorithms and optimization (Scikit Learn), AWS
 
 Description: Developed machine learning models to identify optimal locations for new charging stations based on geospatial and socio-economic features. Also worked on identifying optimal areas for local energy communities in Spain and Germany.
 
@@ -24,7 +24,7 @@ Technologies: AWS, Apache Spark, Java, Spring, GIS
 Description: Implemented scalable big data jobs and infrastructure on AWS for processing millions of time-critical sensor data from vehicles worldwide. Addressed challenges like skewed geodata distribution. Led a team of up to 10 developers.
 
 ### 🗺️ AI Engineering: Implementation of AI applications in the backend
-Technologies: Python, Django, GCP, Azure, AWS, Docker, Terraform
+Technologies: Python, Django, LLM+RAG, AI Agents, GCP, Azure, AWS, Docker, Terraform
 
 Description: Developed various AI applications with Python / Django, including REST APIs. Applications include LLM+RAG solutions as well as AI agents. Designed software architecture and cloud infrastructure, and automated infrastructure using Terraform.
 <!--
