@@ -16,8 +16,8 @@ I'm a german software developer with over 15 years of experience, specializing i
 ### 🔋 Renewable Energy Sector: Geospatial Analysis and Machine Learning
 Technologies: Python, (Geo)Pandas, GIS, ML algorithms and optimization (Scikit Learn), AWS
 
-- Developed machine learning models to identify optimal locations for new charging stations based on geospatial and socio-economic features. 
-- Implemented a solution to identifying optimal areas for local energy communities in Spain and Germany. Based on my analysis the Adeje Verde project in Tenerife chose the music school as the central building for solar panels providing renewable energy to the neighbourhood.
+- Developed machine learning models to identify optimal locations for new charging stations based on geospatial and socio-economic features. [SpotOne](https://spotone.onetp.eon.com/map/public), the solution by E.On One is freely available
+- Implemented a solution to identifying optimal areas for local energy communities in Spain and Germany. Based on my analysis the [Adeje Verde project](https://adejeverde.com/emma-2) in Tenerife chose the music school as the central building for solar panels providing renewable energy to the neighbourhood.
 - Initiated and implemented an open source solution for the [most complete map of charging stations in europe](https://medium.com/comsystoreply/the-most-complete-map-of-charging-stations-1ebbf91e4ef3) . Github repo: https://github.com/comsysto/eCharm
 
 ### 📊 Data Engineering: Processing Millions of Daily Sensor Measurements
