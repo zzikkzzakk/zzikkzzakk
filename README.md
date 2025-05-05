@@ -25,7 +25,7 @@ Technologies: AWS, Apache Spark, Java, Spring, GIS
 
 Description: Implemented scalable big data jobs and infrastructure on AWS for processing millions of time-critical sensor data from vehicles worldwide. Addressed challenges like skewed geodata distribution. Led a team of up to 10 developers.
 
-### 🤖 AI Engineering: Implementation of AI applications in the backend
+### 🤖 AI Engineering: Implementation of AI applications
 Technologies: Python, Django, LLM+RAG, AI Agents, GCP, Azure, AWS, Docker, Terraform
 
 Description: Developed various AI applications with Python / Django, including REST APIs. Applications include LLM+RAG solutions as well as AI agents. Designed software architecture and cloud infrastructure, and automated infrastructure using Terraform.
