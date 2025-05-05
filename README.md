@@ -1,8 +1,13 @@
-## Lars Haferkamp - Freelancer
+# Lars Haferkamp - Freelancer
 
-I'm a Data Engineer, GIS & ML / AI expert with with more than 15 years of experience.
+I'm a German software developer with over 15 years of experience, specializing in:
 
-My focus are software solutions which support the UN Sustainability goals 🌍
+- 🛠️ Software and Data Engineering
+- 🌍 GIS & Geospatial Data
+- 🤖 Data Science (AI, Agents, RAG, ML, Statistics)
+- ☁️ Cloud and Backend Development
+
+🌱🌍 My focus is on projects that support the UN Sustainable Development Goals.
 
 I'm member of the [allwerker eG](https://www.allwerker.com/) - a cooperative creating and exploring the digital future.
 
